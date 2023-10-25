@@ -21,5 +21,7 @@ namespace CompAndDel.Pipes
             return this.image;
         }
 
+        
+
     }
 }
